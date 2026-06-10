@@ -113,7 +113,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A000000%2C50%3A8b0000%2C100%3Aff0000&height=120&section=footer&text=Happy%20Hacking%20%F0%9F%94%B4&fontSize=28&fontColor=ff4444&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A000000%2C50%3A8b0000%2C100%3Aff0000&height=120&section=footer&text=Happy%20Hacking%20&fontSize=28&fontColor=ff4444&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 
 </div>
