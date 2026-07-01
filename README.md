@@ -4,12 +4,12 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/20MH1A04H9/RedTeaming?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=red&label=STARS"/>
-<img src="https://img.shields.io/github/forks/20MH1A04H9/RedTeaming?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=8b0000&label=FORKS"/>
-<img src="https://img.shields.io/github/watchers/20MH1A04H9/RedTeaming?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=cc0000&label=WATCHERS"/>
-<img src="https://img.shields.io/github/last-commit/20MH1A04H9/RedTeaming?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0000&color=darkred&label=LAST+COMMIT"/>
+<img src="https://img.shields.io/github/stars/20MH1A04H9/RedTeaming?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=red&label=STARS&cacheSeconds=0"/>
+<img src="https://img.shields.io/github/forks/20MH1A04H9/RedTeaming?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=8b0000&label=FORKS&cacheSeconds=0"/>
+<img src="https://img.shields.io/github/watchers/20MH1A04H9/RedTeaming?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0000&color=cc0000&label=WATCHERS&cacheSeconds=0"/>
+<img src="https://img.shields.io/github/last-commit/20MH1A04H9/RedTeaming?style=for-the-badge&logo=git&logoColor=white&labelColor=1a0000&color=darkred&label=LAST+COMMIT&cacheSeconds=0"/>
 <img src="https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a0000"/>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=20MH1A04H9.RedTeaming&style=for-the-badge&left_color=1a0000&right_color=red&left_text=VISITORS"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=20MH1A04H9.RedTeaming&style=for-the-badge&left_color=1a0000&right_color=red&left_text=VIEWS"/>
 
 <br/><br/>
 
