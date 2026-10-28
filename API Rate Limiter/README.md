@@ -10,6 +10,8 @@
 ![Tests](https://img.shields.io/badge/tests-7%20passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
+Part of the [RedTeaming](https://github.com/20MH1A04H9/RedTeaming) collection by [@20MH1A04H9](https://github.com/20MH1A04H9).
+
 </div>
 
 ---
@@ -74,8 +76,8 @@ flowchart LR
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/viswa-api-rate-limiter.git
-cd viswa-api-rate-limiter
+git clone https://github.com/20MH1A04H9/RedTeaming.git
+cd "RedTeaming/API Rate Limiter"
 
 python3 -m venv .venv && source .venv/bin/activate
 pip install -e ".[demo]"
@@ -238,7 +240,7 @@ Tested on Kali Linux with the demo app (bucket of 10, refill 1 token/second):
 ## Project structure
 
 ```
-viswa-api-rate-limiter/
+RedTeaming/API Rate Limiter/
 ├── src/viswa_ratelimiter/
 │   ├── algorithms.py     # TokenBucket, SlidingWindow, FixedWindow (in-memory)
 │   ├── redis_store.py    # RedisTokenBucket, RedisSlidingWindow (Lua scripts)
@@ -267,7 +269,6 @@ The suite covers burst and refill behaviour, the sliding-window retry calculatio
 - Writing atomic, distributed counters with Redis Lua scripts
 - Graceful degradation and circuit breakers
 - How ASGI middleware wraps requests and responses
-
 
 ## License
 
