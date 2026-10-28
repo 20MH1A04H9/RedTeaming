@@ -1,0 +1,19 @@
+[project]
+name = "viswa-ratelimiter"
+version = "0.1.0"
+description = "Async API rate limiter: token bucket, sliding window, fixed window, Redis + in-memory fallback, ASGI middleware"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Sai Viswanadh (Viswa)" }]
+
+[project.optional-dependencies]
+redis = ["redis>=5"]
+demo = ["fastapi", "uvicorn", "redis>=5"]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
